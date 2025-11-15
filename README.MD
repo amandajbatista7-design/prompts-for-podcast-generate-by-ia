@@ -1,99 +1,101 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
+# 🎙️ Psico$entido — onde mente e dinheiro se encontram  
+### Projeto de Podcast Gerado por I.A.s (Fork Personalizado)
 
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
-# Projeto Podcast Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
-
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
-
-## ✨ Como foi feito ?
-
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
-
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+> ℹ️ **NOTE:** Este repositório é um fork personalizado do projeto original desenvolvido durante uma live no YouTube em parceria com a DIO.  
+> Aqui estão registrados todos os prompts, áudios e arte utilizados no processo de criação do podcast **Psico$entido — onde mente e dinheiro se encontram**.
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+## 🧠 Sobre o Projeto
+
+Este projeto demonstra como criar um podcast **do zero utilizando Inteligência Artificial**, passando por todas as etapas:
+
+- criação do nome  
+- elaboração do roteiro  
+- geração da narração  
+- criação de capa  
+- edição final do áudio  
+- documentação do processo  
+
+O objetivo é servir como referência para quem quer usar IAs no processo criativo.
+
+---
+
+## 💻 Tecnologias Utilizadas
+
+- **ChatGPT** — prompts para nome do podcast e roteiros  
+- **Copilot** — criação da arte da capa via prompt  
+- **ElevenLabs** — geração da narração em áudio  
+- **CapCut** — edição, trilhas e finalização do áudio  
+- **Notion** — documentação detalhada e organização do processo  
+
+---
+
+## ✨ Como Foi Feito?
+
+### 🧾 1. **Roteiro**
+Criado no ChatGPT com uma sequência de prompts, incluindo:
+- nome do podcast  
+- roteiro inspirador  
+- versão com marcadores de emoção para TTS  
+
+### 🎤 2. **Áudio**
+- narração sintetizada via ElevenLabs  
+- versão colocada em `/output/Audio synthesized.mp3`
+
+### 🎨 3. **Capa**
+- gerada via GitHub Copilot com prompt personalizado  
+- armazenada em `/assets/cover.png`
+
+### 🎧 4. **Edição Final**
+- feita no CapCut  
+- trilhas, correções e efeitos  
+- arquivo final em `/output/podcast_editado.MP3`
+
+---
+
+## 📚 Materiais e Documentação
+
+🔗 **Página completa no Notion (passo a passo):**  
+👉 *Cole aqui o link da sua página no Notion*
+
+🔗 **Live original no YouTube:**  
+https://www.youtube.com/watch?v=W9XWDV9Qnig
+
+---
+
+## 🛠️ Instruções de Reprodução
+
+### 1️⃣ Gere o roteiro no ChatGPT usando os prompts fornecidos  
+Você pode usar o mesmo fluxo criativo descrito no Notion.
+
+### 2️⃣ Gere a narração no ElevenLabs  
+Use o roteiro com marcadores de emoção e pausas.
+
+### 3️⃣ Crie a capa  
+Use o prompt salvo no seu Notion com o Copilot (ou outra IA de imagem).
+
+### 4️⃣ Edite no CapCut  
+Aplique trilhas, efeitos e ajustes no áudio.
+
+---
+
+## 👨‍💻 Expert (projeto original)
+
+**Felipe Aguiar**  
+GitHub | LinkedIn | Instagram  
+
+---
+
+## 📜 Licença
+
+Este projeto segue a licença do repositório original.  
+Você pode estudar, remixar e reutilizar como quiser.
+
+---
+
+## 🧡 Agradecimentos
+
+A todas as ferramentas de IA que transformam ideias em projetos criativos — e a você por explorar essa jornada com propósito!
+
+
