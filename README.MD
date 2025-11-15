@@ -57,10 +57,8 @@ Criado no ChatGPT com uma sequência de prompts, incluindo:
 ## 📚 Materiais e Documentação
 
 🔗 **Página completa no Notion (passo a passo):**  
-👉 *Cole aqui o link da sua página no Notion*
+👉 https://www.notion.so/IA-Podcast-2aa634e4837e8091b2fdf3a7bb1ac42c?source=copy_link
 
-🔗 **Live original no YouTube:**  
-https://www.youtube.com/watch?v=W9XWDV9Qnig
 
 ---
 
